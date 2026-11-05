@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 2,
+    "width": 2640,
+    "height": 3520,
+    "isRotated": true,
+    "originalWidth": 2644,
+    "originalHeight": 3520
+  },
+  "imagePath": "image-targets/far1_luminance.jpg",
+  "metadata": null,
+  "name": "far1",
+  "resources": {
+    "originalImage": "far1_original.jpg",
+    "croppedImage": "far1_cropped.jpg",
+    "thumbnailImage": "far1_thumbnail.jpg",
+    "luminanceImage": "far1_luminance.jpg"
+  },
+  "created": 1793842288483,
+  "updated": 1793842288483
+}
